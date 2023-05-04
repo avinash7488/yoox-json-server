@@ -1,5 +1,6 @@
 # JSON SERVER
+## YOOX.COM
 
 {
-    "posts":[]
+    "products":[]
 }
